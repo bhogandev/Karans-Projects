@@ -6,7 +6,8 @@ namespace FindetotheNthDigit
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(FindE(2.0192837483920103, 5));
+            // Enter User Value Here
+            Console.WriteLine(FindE(/*Enter Double Here*/, /*Enter Number of Places*/));
         }
 
         public static string FindE(double number, int numPlaces)
