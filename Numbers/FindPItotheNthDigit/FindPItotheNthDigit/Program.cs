@@ -11,7 +11,8 @@ namespace FindPItotheNthDigit
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(FindPI(-9));
+            // Enter user value here
+            Console.WriteLine(FindPI(/*Enter Value*/));
         }
 
         
